@@ -1,0 +1,25 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+scipy
+
+# Deep learning frameworks
+torch
+torchvision
+torchaudio
+
+# Graph Neural Network libraries
+torch-geometric
+torch-sparse
+torch-scatter
+torch-cluster
+
+# Visualization
+matplotlib
+seaborn
+networkx
+
+# Utilities
+tqdm
+pyyaml

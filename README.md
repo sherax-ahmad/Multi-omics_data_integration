@@ -1,10 +1,3 @@
-# Multi-omics Data Integration Using Graph Neural Network
-Graph Neural Network-based framework for integrative analysis of multi-omics data to uncover complex biological insights.
-
-Here’s a clean and professional **README.md** draft for your GitHub repo on multi-omics data integration using Graph Neural Networks (GNN):
-
----
-
 # Multi-Omics Data Integration with Graph Neural Networks
 
 ## 📌 Description
